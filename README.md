@@ -28,7 +28,7 @@ pip install -r requirements.txt
 ## Crear proyecto Django
 
 ```bash
-django-admin startproject practica2
+django-admin startproject practica2 .
 ```
 
 ## Aplicar migraciones
