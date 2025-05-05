@@ -146,3 +146,7 @@ autores y libros.
 ## Capturas de pantalla
 
 ![Interfaz de administración](Imagenes/Imagen1.png)
+____
+![Add autores](Imagenes/Imagen2.png)
+____
+![Add libros](Imagenes/Imagen3.png)
