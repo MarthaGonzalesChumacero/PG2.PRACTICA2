@@ -145,4 +145,4 @@ autores y libros.
 
 ## Capturas de pantalla
 
-![screenshot1](assets/Captura de pantalla 2025-05-04 230011.png "Screenshot - Site administration Martha")
+![Interfaz de administración]({{Imagenes/Imagen1.png}})
