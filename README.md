@@ -145,4 +145,4 @@ autores y libros.
 
 ## Capturas de pantalla
 
-![Interfaz de administración]({{Imagenes/Imagen1.png}})
+![Interfaz de administración](Imagenes/Imagen1.png)
