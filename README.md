@@ -145,8 +145,14 @@ autores y libros.
 
 ## Capturas de pantalla
 
+## Site Administration
+
 ![Interfaz de administración](Imagenes/Imagen1.png)
 ____
+
+## Add Autores
 ![Add autores](Imagenes/Imagen2.png)
 ____
+
+## Add Libros
 ![Add libros](Imagenes/Imagen3.png)
